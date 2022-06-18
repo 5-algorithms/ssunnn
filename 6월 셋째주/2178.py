@@ -1,4 +1,4 @@
-#백준 알고리즘 2178번
+#백준 알고리즘 2178번 - 지정문제
 #미로 탐색
 from collections import deque
 
